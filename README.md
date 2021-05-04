@@ -9,7 +9,6 @@
 2. Open XAMPP/WAMPP Control panal and start [apache] and [mysql] .
 
 3. Download project from github (https://github.com/sreenandha24/Student-Result-Management-System-sqlproject.git).
- 
  OR follow gitbash commands
 
     i>cd C:\\xampp\htdocs\
