@@ -8,12 +8,11 @@
 
 2. Open XAMPP/WAMPP Control panal and start [apache] and [mysql] .
 
-3. Download project from github (https://github.com/sreenandha24/Student-Result-Management-System-sqlproject.git).
- OR follow gitbash commands
+3. Download project from github (https://github.com/sreenandha24/Student-Result-Management-System-sqlproject.git) (or) follow gitbash commands
 
-    i>cd C:\\xampp\htdocs\
+    `i>cd C:\\xampp\htdocs\`
 
-    ii>git clone https://github.com/sreenandha24/Student-Result-Management-System-sqlproject.git
+   ` ii>git clone https://github.com/sreenandha24/Student-Result-Management-System-sqlproject.git`
 
 4. Open the Link http://localhost/phpmyadmin (or) http://127.0.0.1/phpmyadmin in any Web Browser on your Computer
 
