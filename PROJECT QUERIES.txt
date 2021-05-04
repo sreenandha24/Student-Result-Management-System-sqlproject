@@ -1,0 +1,13 @@
+1.What is the marks of Abhishek Choudhary? /other students (provided name and class)
+SQL> SELECT S.StudentId,S.StudentName,D.SubjectName,R.marks FROM tblstudents S INNER JOIN tblsubjects D INNER JOIN tblresult R ON S.StudentName =  ‘Abhishek Choudhary’ AND R.SubjectId = D.id AND R.ClassId = 1;
+
+2.What is the average mark/percentage of Abhishek Choudhary? other students (provided name and class)
+SQL> SELECT S.StudentId,S.StudentName,D.SubjectName,AVG(R.marks) FROM tblstudents S INNER JOIN tblsubjects D INNER JOIN tblresult R ON S.StudentName = 'Abhishek Choudhary' AND R.SubjectId = D.id AND R.ClassId = 1;
+
+3.What is the Lowest mark of Abhishek Choudhary? other students (provided name and class)
+SQL> SELECT S.StudentId,S.StudentName,D.SubjectName,MIN(R.marks) AS marks FROM tblstudents S INNER JOIN tblsubjects D INNER JOIN tblresult R ON S.StudentName = 'Abhishek Choudhary' AND R.SubjectId = D.id AND R.ClassId = 1;
+
+4.What is the Highest mark of Abhishek Choudhary? other students (provided name and class)
+SQL> SELECT S.StudentId,S.StudentName,D.SubjectName,MAX(R.marks) AS marks FROM tblstudents S INNER JOIN tblsubjects D INNER JOIN tblresult R ON S.StudentName = 'Abhishek Choudhary' AND R.SubjectId = D.id AND R.ClassId = 1;
+
+
