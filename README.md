@@ -10,3 +10,11 @@ In this database we will be able to find the results of students by giving their
 3.What is the Lowest mark of Abhishek Choudhary? other students (provided name and class)
 
 4.What is the Highest mark of Abhishek Choudhary? other students (provided name and class)
+#TEAM MEMBERS
+Sree Nandha
+
+Vignesh
+
+Athish
+
+Sree Dharshan
