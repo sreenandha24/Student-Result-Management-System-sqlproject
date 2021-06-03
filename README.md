@@ -46,7 +46,7 @@ Having Trouble Installing XAMPP? Check out the Demo Video 👉[Click Here](https
 
 **Sree Nandha -** _@sreenandha24_
 
-****Vignesh** -@vignes807
+**Vignesh** -@vignes807
 
 **Sree Dharshan -** @sreedharshan
 
