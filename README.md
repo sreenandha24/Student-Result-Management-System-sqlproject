@@ -48,6 +48,6 @@ Having Trouble Installing XAMPP? Check out the Demo Video 👉[Click Here](https
 
 **Vignesh** -@vignes807
 
-**Sree Dharshan -** @sreedharshan
+**Sree Dharshan -** _@sreedharshan_
 
 **Athish -** _@vpathish_
