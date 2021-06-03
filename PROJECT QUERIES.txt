@@ -42,3 +42,18 @@ SQL> SELECT Subjecid, Status FROM tblsubjectcombination WHERE class = '8' AND st
 
 15. Write a Query to display all Subject along with their subject code and updation date;
 SQL> SELECT SubjectName, SubjectCode, UpdationDate FROM tblsubjects;
+
+16. Write a Query to display all the details of the Classes that were updated on 2018-10-23
+SQL> SELECT * FROM tblclasses WHERE UpdationDate = '2018-10-23';
+
+17. Write a Query to Display the details of the results where there were no updaions
+SQL> SELECT * FROM tblresult WHERE UpdationDate IS NULL;
+
+18. Write a Query to display the details of the female students
+SQL> SELECT ALL FROM tblstudents where gender = 'FEMALE';
+
+19. Write a  Query to display the details of all the subject combinations that has status 0
+SQL> SELECT * FROM tblsubjectcombination WHERE status = '0';
+
+20. Write a Query to display the SUbject with code 'MS'
+SQL> SELECT * FROM tblsubjects WHERE SubjectCode = 'MS';
